@@ -5,7 +5,7 @@ d = int(input("enter a number: "))
 
 if(a>b and a>c and a>d):
     print("a is the greatest: ", a)
-elif(b>a and b>c and b>b):
+elif(b>a and b>c and b>d):
     print("b is the greatest: ", b)
 elif(c>b and c>d and c>a):
     print("c is the greatest: ", c)
